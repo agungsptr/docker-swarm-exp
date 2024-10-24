@@ -1,4 +1,4 @@
-# Tutorial Docker Swarm
+# Docker Swarm Tutorial
 
 This tutorial will use simple backend app with can post or get data, and deploy it using docker swarm with multiple replicas. Also setting up monitoring docker swarm using swarmpit.io.
 
